@@ -21,8 +21,7 @@
     box-sizing: border-box;
   }
   
-  
-  /* 版面及元素初步尺寸樣式設定 */
+ 
   .wrap {
     width: 1200px;
     margin: 0 auto;
@@ -69,7 +68,6 @@
     list-style: none;
   }
   
-  /* header裝修區 */
   .header {
     text-align: center;
     background-image: url(https://img.onl/hHQPdo);
@@ -121,7 +119,6 @@
     top: 50%;
   }
   
-  /* content top裝修區 */
   .profilePic {
     width: 180px;
     height: 180px;
@@ -142,7 +139,6 @@
     text-align: center;
   }
 
-  /* container left裝修區 */
   .ex {
     /* background-color:#f2efef ;
     margin: 20px; */
@@ -238,8 +234,6 @@
   
   
 
-
-  /* container right裝修區 */
   .right {
     padding: 30px 30px 0 40px;
     /* padding-left: 10px; */
